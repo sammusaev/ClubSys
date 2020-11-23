@@ -1,0 +1,54 @@
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\bin\Debug\ClubSys.exe.config
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\bin\Debug\ClubSys.exe
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\bin\Debug\ClubSys.pdb
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.csprojAssemblyReference.cache
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.Login.resources
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.Properties.Resources.resources
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.csproj.GenerateResource.cache
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.csproj.CoreCompileInputs.cache
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.exe
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.pdb
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.StudentHome.resources
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.AdminHome.resources
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.RepHome.resources
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\bin\Debug\ClubSysDB.mdf
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\bin\Debug\ClubSysDB_log.ldf
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.NavBar.resources
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.AdminAddEdit.resources
+C:\Users\Samir Musaev\OneDrive - Asia Pacific University\Y1S2\IOOP Group Assignment\ClubSys\ClubSys\obj\Debug\ClubSys.AdminReports.resources
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\bin\Debug\ClubSysDB.mdf
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\bin\Debug\ClubSysDB_log.ldf
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\bin\Debug\ClubSys.exe.config
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\bin\Debug\ClubSys.exe
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\bin\Debug\ClubSys.pdb
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.csprojAssemblyReference.cache
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.AdminAddEdit.resources
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.AdminHome.resources
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.AdminReports.resources
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.Login.resources
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.NavBar.resources
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.Properties.Resources.resources
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.RepHome.resources
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.StudentHome.resources
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.csproj.GenerateResource.cache
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.csproj.CoreCompileInputs.cache
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.exe
+C:\Users\Samir Musaev\Desktop\ClubSys\ClubSys\obj\Debug\ClubSys.pdb
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\bin\Debug\ClubSysDB.mdf
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\bin\Debug\ClubSysDB_log.ldf
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\bin\Debug\ClubSys.exe.config
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\bin\Debug\ClubSys.exe
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\bin\Debug\ClubSys.pdb
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.csprojAssemblyReference.cache
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.AdminAddEdit.resources
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.AdminHome.resources
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.AdminReports.resources
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.Login.resources
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.NavBar.resources
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.Properties.Resources.resources
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.RepHome.resources
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.StudentHome.resources
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.csproj.GenerateResource.cache
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.csproj.CoreCompileInputs.cache
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.exe
+C:\Users\Samir Musaev\Desktop\LOCAL IOOP\ClubSys\ClubSys\obj\Debug\ClubSys.pdb
