@@ -1,4 +1,4 @@
-# ClubSys - A Varsity Club Management Prototype 
+# ClubSys - Varsity Club Management with Winforms 
 
 ### Description
 ClubSys is a prototype varsity club management platform  and centers around three types of users with varying user accesses. The project was created with aims of exploring and utilizing the fundamentals of OOP & DBMS concepts.  
