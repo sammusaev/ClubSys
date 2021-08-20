@@ -1,7 +1,7 @@
 # ClubSys - A Varsity Club Management Prototype 
 
 ### Description
-ClubSys is a prototype varsity club management platform  made as a 3-person group assignment for the module Introduction To Object Oriented Programming at Asia Pacific University. The platform centers around three types of users with varying user access, with aims of exploring and utilizing the fundamentals of object-oriented programming & database management concepts.  
+ClubSys is a prototype varsity club management platform  and centers around three types of users with varying user accesses. The project was created with aims of exploring and utilizing the fundamentals of OOP & DBMS concepts.  
 
 ### User types & Functions
   - Administrator - Full control of all registered clubs
