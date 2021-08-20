@@ -22,5 +22,3 @@ ClubSys is a prototype varsity club management platform  and centers around thre
  - Inconsistent UI
  - WinForms is outdated by today's standards
  - The only way to add more users is through SQL commands
-
-#### sammusaev@gmail.com
